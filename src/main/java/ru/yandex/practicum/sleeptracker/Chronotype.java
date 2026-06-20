@@ -1,4 +1,4 @@
-package ru.yandex.practicum;
+package main.java.ru.yandex.practicum.sleeptracker;
 
 public enum Chronotype {
     OWL("Сова"),
